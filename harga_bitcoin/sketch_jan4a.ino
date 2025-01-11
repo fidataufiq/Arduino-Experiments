@@ -12,8 +12,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // WiFi Credentials
-const char* ssid = "Nanikjatibelanda";  // Ganti dengan nama WiFi Anda
-const char* password = "nanik278487";  // Ganti dengan password WiFi Anda
+const char* ssid = "<Nama WiFi Kamu>";  // Ganti dengan nama WiFi Anda
+const char* password = "<Password WiFi Kamu>";  // Ganti dengan password WiFi Anda
 
 // CoinDesk API
 const char* host = "api.coindesk.com";
