@@ -88,10 +88,10 @@ Harga Bitcoin (USD):
 $34,567.89
 Jan 11, 2025 03:10
 ```
-## 📸 Foto Proyek
+<!-- ## 📸 Foto Proyek
 
 ### Tampilan Alat Bitcoin Tracker
-![Proyek Bitcoin Tracker 1](https://1drv.ms/i/c/5097e9c5a8e0565f/EY8TZ9zOkE5IsXU2xjnPjFsBpXTuD0yilQzwAKfyDnCmLg?e=83cjBn)
+![Proyek Bitcoin Tracker 1](https://1drv.ms/i/c/5097e9c5a8e0565f/EY8TZ9zOkE5IsXU2xjnPjFsBpXTuD0yilQzwAKfyDnCmLg?e=83cjBn) -->
 ---
 
 ## 🕵️ Catatan Penting
